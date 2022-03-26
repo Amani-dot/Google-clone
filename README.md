@@ -18,7 +18,7 @@ After
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://amani-dot.github.io/google-clone/](https://your-live-site-url.com)
 
 ## My process
 
